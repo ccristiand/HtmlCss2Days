@@ -1,0 +1,2 @@
+D:\Endava_practice\HTMLAndCSS\HTMLAndCSS\bin\Debug\HTMLAndCSS.exe.config
+C:\Users\crconstantin\Desktop\HTMLAndCSS\HTMLAndCSS\bin\Debug\HTMLAndCSS.exe.config

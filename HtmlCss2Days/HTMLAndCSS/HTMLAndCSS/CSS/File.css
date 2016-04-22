@@ -1,0 +1,130 @@
+﻿#endavaPhoto{
+    text-align:center;
+    margin-top:5;
+    margin-left:5;
+}
+
+#endava{
+    height:150px;
+    width:350px;
+}
+
+.header{
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+    padding:5px;
+}
+
+#facebook{
+      width:20px;
+      float:right;
+}
+
+#twiter{
+     width:20px;
+     float:right;
+}
+
+div a{
+     color:black;
+     font-family:Arial;
+     text-decoration:none;
+}
+
+#Piscina{
+    width: 100%;
+    height:250px;
+}
+
+.text{
+    font-size:25px;
+    width:33%;
+    margin:0 auto;
+    text-align:center;
+    background-color:white;
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+
+}
+
+.poze{
+    width:100%;
+}
+
+.divMare{
+    width:100%;
+    background-color:grey;
+    float:left;
+}
+
+.poze img{
+    width:33%;
+    float:left;
+}
+
+.text2{
+    text-align:center;
+    font-size:18px;
+    width:33%;
+    margin:0 auto;
+    background-color:white;
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+    padding:2px;
+}
+
+#paragrafEndavaGraduates{
+    float:left;
+}
+
+#paragrafHome{
+    float:right;
+}
+
+#paragrafWork{
+    float:right;
+}
+
+#paragrafContact{
+    float:right;
+}
+
+#Piscina2{
+    width: 100%;
+    height:250px;
+}
+#Piscina3{
+    width: 100%;
+    height:250px;
+}
+
+.2parti{
+
+}
+
+.ParteaStanga{
+    width:50%;
+    float:right;
+}
+
+.ParteaDreapta{
+    width:50%;
+    float:right;
+}
+
+.text3{
+     text-align:center;
+     font-size:15px;
+       width:20%;
+    margin:0 auto;
+    background-color:white;
+}
+
+.footer{
+    margin-bottom:0px;
+    background-color:grey;
+    height:17px;
+    float:left;
+    width:100%;
+}
+
